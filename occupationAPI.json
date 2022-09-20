@@ -1,0 +1,53 @@
+{
+	"Automobile Occupations": [{
+			"oid": "1",
+			"name": "Automobile Design",
+			"Experiences": [{
+				"name": "3D Modelling",
+				"url": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb",
+				"description": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb"
+			}, {
+				"name": "2D Drafting",
+				"url": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb",
+				"description": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb"
+			}, {
+				"name": "Simulation",
+				"url": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb",
+				"description": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb"
+			}]
+		},
+		{
+			"oid": "2",
+			"name": "Automobile Manufacturing",
+			"Experiences": [{
+				"name": "Welding",
+				"url": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb",
+				"description": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb"
+			}, {
+				"name": "Painting",
+				"url": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb",
+				"description": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb"
+			}, {
+				"name": "Assembly",
+				"url": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb",
+				"description": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb"
+			}]
+		},
+		{
+			"oid": "3",
+			"name": "Automobile Purchase",
+			"Experiences": [{
+				"name": "Vendor Management",
+				"url": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb",
+				"description": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb"
+			}, {
+				"name": "Product Costing",
+				"url": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb",
+				"description": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb"
+
+			}]
+		}
+	]
+
+
+}
